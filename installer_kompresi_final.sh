@@ -44,9 +44,9 @@ echo "============================="
 echo "Download Installer File"
 echo "============================="
 
-wget http://172.20.4.135/index.php/s/LSnjEk45Pp1HUNh/download -O kompresi.zip
+wget http://202.134.4.217/kompresi/installer_kompresi.zip
 
-unzip kompresi.zip
+unzip installer_kompresi.zip
 
 echo
 echo
